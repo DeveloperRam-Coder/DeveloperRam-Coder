@@ -9,7 +9,7 @@ A software developer is responsible for designing, coding, testing, and maintain
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://developerfolio.com)
 * ✉️  You can contact me at [ramgopalbsr9@gmail.com](mailto:ramgopalbsr9@gmail.com)
-* 🚀  I'm currently working on [School Management & E-Commerce Project]([http://https://softcampus.amlino.com](https://softcampus.amlino.com/))
+* 🚀  I'm currently working on [School Management & E-Commerce Project]([http://https://softcampus.amlino.com]
 * 🧠  I'm learning Angular & React and New Technologies
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Fun fact: I’m passionate about solving complex problems through software development!
